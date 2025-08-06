@@ -1,0 +1,4 @@
+flask
+langchain-community
+flask-cors
+gunicorn
